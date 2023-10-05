@@ -1,0 +1,13 @@
+.photo-gallery img{
+    width: 15vw;
+    background-color: #cccccc;
+    padding: 1px;
+    border: 1em solid white;
+    box-shadow: .1em .1em .2em .2em rgba(0,0,0,0.1);
+    margin: 0.5em;
+}
+
+.photo-gallery{
+    margin: auto;
+    text-align: center;
+}
