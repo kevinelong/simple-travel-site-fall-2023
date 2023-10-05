@@ -1,8 +1,8 @@
 .photo-gallery img{
     width: 15vw;
-    background-color: #cccccc;
+    background-color: #4a885c83;
     padding: 1px;
-    border: 1em solid white;
+    border: 1em solid rgba(223, 212, 203, 0.89);
     box-shadow: .1em .1em .2em .2em rgba(0,0,0,0.1);
     margin: 0.5em;
 }
