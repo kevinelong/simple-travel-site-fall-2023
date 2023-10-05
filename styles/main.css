@@ -1,3 +1,6 @@
+body{
+    padding: 2.5em;
+}
 .photo-gallery img{
     width: 15vw;
     background-color: #4a885c83;
